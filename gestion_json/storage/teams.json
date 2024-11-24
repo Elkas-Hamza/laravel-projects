@@ -3,42 +3,126 @@
         "id": "1",
         "name": "Paris Saint-Germain",
         "country": "France",
-        "photo": "https:\/\/th.bing.com\/th\/id\/OIP.--w6vLfUgL-9-B3MGE2mIAHaE7?rs=1&pid=ImgDetMain"
+        "photo": "https:\/\/th.bing.com\/th\/id\/OIP.--w6vLfUgL-9-B3MGE2mIAHaE7?rs=1&pid=ImgDetMain",
+        "players": {
+            "1": {
+                "id": "2",
+                "name": "chi 3azwa",
+                "position": "Forward",
+                "age": "36"
+            },
+            "2": {
+                "id": 3,
+                "name": "hamza el kasmi",
+                "position": "Forward",
+                "age": "19"
+            },
+            "3": {
+                "id": 4,
+                "name": "saad bensdi",
+                "position": "ava centre",
+                "age": "19"
+            }
+        }
     },
     {
         "id": 2,
         "name": "FC Barcelona",
         "country": "Spain",
-        "photo": "https:\/\/th.bing.com\/th\/id\/OIP.YDV2wuq6Brfetf0exDI_1gAAAA?rs=1&pid=ImgDetMain"
+        "photo": "https:\/\/th.bing.com\/th\/id\/OIP.YDV2wuq6Brfetf0exDI_1gAAAA?rs=1&pid=ImgDetMain",
+        "players": [
+            {
+                "id": 1,
+                "name": "Robert Lewandowski",
+                "position": "Forward",
+                "age": 35
+            },
+            {
+                "id": 2,
+                "name": "Pedri",
+                "position": "Midfielder",
+                "age": 21
+            }
+        ]
     },
     {
         "id": 3,
         "name": "Manchester United",
         "country": "England",
-        "photo": "https:\/\/th.bing.com\/th\/id\/OIP.T03Kb1PK109OCCKbz_H76AHaHa?rs=1&pid=ImgDetMain"
+        "photo": "https:\/\/th.bing.com\/th\/id\/OIP.T03Kb1PK109OCCKbz_H76AHaHa?rs=1&pid=ImgDetMain",
+        "players": [
+            {
+                "id": 1,
+                "name": "Marcus Rashford",
+                "position": "Forward",
+                "age": 26
+            },
+            {
+                "id": 2,
+                "name": "Casemiro",
+                "position": "Midfielder",
+                "age": 32
+            }
+        ]
     },
     {
         "id": "4",
         "name": "Bayern Munich",
         "country": "Germany",
-        "photo": "https:\/\/th.bing.com\/th\/id\/OIP.PYTSPS3qN7AXSvGoIXNUiQHaHc?rs=1&pid=ImgDetMain"
+        "photo": "https:\/\/th.bing.com\/th\/id\/OIP.PYTSPS3qN7AXSvGoIXNUiQHaHc?rs=1&pid=ImgDetMain",
+        "players": [
+            {
+                "id": 1,
+                "name": "Joshua Kimmich",
+                "position": "Midfielder",
+                "age": 29
+            },
+            {
+                "id": 2,
+                "name": "Thomas M\u00fcller",
+                "position": "Forward",
+                "age": 34
+            }
+        ]
     },
     {
         "id": 5,
         "name": "Juventus",
         "country": "Italy",
-        "photo": "https:\/\/th.bing.com\/th\/id\/R.68ec0cdf9676a05abf5cb79fbae00582?rik=j06D8Jbgo7oOHA&pid=ImgRaw&r=0"
-    },
-    {
-        "id": 6,
-        "name": "saad bensdi",
-        "country": "Morocco",
-        "photo": "https:\/\/images.unsplash.com\/photo-1597848212624-a19eb35e2651?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8&w=1000&q=80"
+        "photo": "https:\/\/th.bing.com\/th\/id\/R.68ec0cdf9676a05abf5cb79fbae00582?rik=j06D8Jbgo7oOHA&pid=ImgRaw&r=0",
+        "players": [
+            {
+                "id": 1,
+                "name": "Federico Chiesa",
+                "position": "Forward",
+                "age": 26
+            },
+            {
+                "id": 2,
+                "name": "Dusan Vlahovic",
+                "position": "Forward",
+                "age": 24
+            }
+        ]
     },
     {
         "id": 7,
         "name": "saad bensdi",
         "country": "Morocco",
-        "photo": "https:\/\/images.unsplash.com\/photo-1597848212624-a19eb35e2651?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8&w=1000&q=80"
+        "photo": "https:\/\/images.unsplash.com\/photo-1597848212624-a19eb35e2651?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8&w=1000&q=80",
+        "players": [
+            {
+                "id": 1,
+                "name": "Player X",
+                "position": "Midfielder",
+                "age": 23
+            },
+            {
+                "id": 2,
+                "name": "Player Y",
+                "position": "Forward",
+                "age": 27
+            }
+        ]
     }
 ]
